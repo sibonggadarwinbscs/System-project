@@ -15,7 +15,6 @@ using namespace std;
  	
  }
 
-
 int main(){
 	// first project
 	float quiz,pt1,pt2,pt3,pt4,midexam, finalexam,act;
